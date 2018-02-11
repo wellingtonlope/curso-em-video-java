@@ -1,3 +1,4 @@
+.DS_Store
 /PrimeiroPrograma/nbproject/private/
 /PrimeiroPrograma/build/
 /HoraDoSistema/nbproject/private/
@@ -6,3 +7,8 @@
 /IdiomaSistema/build/
 /ResolucaoTela/nbproject/private/
 /ResolucaoTela/build/
+/OlaMundoSwing/nbproject/private/
+/OlaMundoSwing/build/
+/OlaMundoJavaFX/nbproject/private/
+/OlaMundoJavaFX/dist/
+/OlaMundoJavaFX/build/
